@@ -9,10 +9,9 @@
 	<configs>
 		<config>src/main/resources/spring/fileUpload-context.xml</config>
 		<config>src/main/resources/spring/db-context.xml</config>
-		<config>src/main/resources/spring/main-context.xml</config>
+		<config>src/main/webapp/WEB-INF/spring/appServlet/servlet-context.xml</config>
 	</configs>
 	<autoconfigs>
-		<config>src/main/webapp/WEB-INF/spring/appServlet/servlet-context.xml</config>
 	</autoconfigs>
 	<configSets>
 	</configSets>

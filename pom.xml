@@ -385,6 +385,13 @@
 		    <version>6.2.0.Final</version>
 		</dependency>
 		
+		<!-- Web Crawling : https://search.maven.org/artifact/org.jsoup/jsoup/1.15.1/jar-->
+		<dependency>
+			<groupId>org.jsoup</groupId>
+			<artifactId>jsoup</artifactId>
+			<version>1.15.1</version>
+		</dependency>
+		
 	</dependencies>
 	
     <build>
